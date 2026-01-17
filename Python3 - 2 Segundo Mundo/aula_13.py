@@ -1,5 +1,6 @@
-# Estrutura de repetição usando o For (Parte 1). As Estruturas de repetição sao usadas quando queremos facilitar uma tarefa que tem repetição. Seja para mostrar
-# Uma mensagem no Terminal varias vezes, mostrar uma sequencia de numeros, ou para mostrar varios itens de uma lista, ou dicionario, etc. 
+# Estrutura de repetição usando o FOR (Parte 1). As Estruturas de repetição sao usadas quando queremos facilitar uma tarefa que tem repetição. Seja para mostrar
+# Uma mensagem no Terminal varias vezes, mostrar uma sequencia de numeros, ou para mostrar varios itens de uma lista, ou dicionario, etc.
+# Porem no Python temos duas formas de criar uma repeticao, aqui usamos o For, que eh recomendado quando sabemos o limite de onde queremos chegar!
 
 for i in range(10):
     print('Oi')
